@@ -12,4 +12,4 @@
 - Create a Cloudfront using s3 bucket(which contains images) and use the Cloudfront URL to  update in code in /var/www/html
 - create snapshot of ebs
 
-### Above task is done only using terraform
+### Above task is done only using terraform!
