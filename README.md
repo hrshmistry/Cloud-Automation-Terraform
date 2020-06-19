@@ -1,4 +1,4 @@
-# End To End Cloud Infrastructure Automation Through Terraform by HashiCorp
+# End To End AWS Cloud Infrastructure Automation Through Terraform by HashiCorp
 
 ## Things Included In This Project Are...
 
