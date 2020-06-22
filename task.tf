@@ -337,9 +337,14 @@ resource "null_resource" "CF_URL"  {
   
   provisioner "remote-exec" {
     inline = [
-      "echo '<p align = 'center'>'",
-      "echo '<img src='https://${aws_cloudfront_distribution.CloudFront.domain_name}/Cloud.JPG' width='100' height='100'>' | sudo tee -a /var/www/html/Slack.html",
-      "echo '</p>'"
+      "echo '<br>' | sudo tee -a /var/www/html/Slack.html",
+      "echo '<br>' | sudo tee -a /var/www/html/Slack.html",
+      "echo '<br>' | sudo tee -a /var/www/html/Slack.html",
+      "echo '<br>' | sudo tee -a /var/www/html/Slack.html",
+      "echo '<br>' | sudo tee -a /var/www/html/Slack.html",
+      "echo '<a href='https://dev.to/hrshmistry'>' | sudo tee -a /var/www/html/Slack.html",
+      "echo '<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' alt='Harsh Mistry DEV Profile' height='50' width='50'>' | sudo tee -a /var/www/html/Slack.html",
+      "echo '</a>' | sudo tee -a /var/www/html/Slack.html"
     ]
   }
 }
