@@ -1,5 +1,8 @@
 # End To End AWS Cloud Infrastructure Automation Through Terraform by HashiCorp
 
+![GitHub](https://img.shields.io/github/license/hrshmistry/Cloud-Automation-Terraform)
+![GitHub top language](https://img.shields.io/github/languages/top/hrshmistry/Cloud-Automation-Terraform)
+
 ## Things Included In This Project Are...
 
 - Create the key and security group which allow the port 80.
@@ -17,3 +20,9 @@
 > [Way to Twitter Post](https://twitter.com/ThePracticalDev/status/1274480904816209920)
 
 > [Way to LinkedIn Post](https://www.linkedin.com/posts/hrshmistry_end-to-end-aws-cloud-infrastructure-automation-activity-6680305773630808064-6ZZ4)
+
+## SUPPORT THE WORK
+
+![GitHub followers](https://img.shields.io/github/followers/hrshmistry?style=social)
+![GitHub forks](https://img.shields.io/github/forks/hrshmistry/Cloud-Automation-Terraform?style=social)
+![GitHub stars](https://img.shields.io/github/stars/hrshmistry/Cloud-Automation-Terraform?style=social)
