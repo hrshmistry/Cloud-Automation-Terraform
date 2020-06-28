@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/hrshmistry/Cloud-Automation-Terraform)
 ![GitHub top language](https://img.shields.io/github/languages/top/hrshmistry/Cloud-Automation-Terraform)
 
-> [❗Detailed Documentation❗](https://dev.to/hrshmistry/end-to-end-aws-cloud-infrastructure-automation-through-terraform-by-hashicorp-2gkl)
+[❗Detailed Documentation❗](https://dev.to/hrshmistry/end-to-end-aws-cloud-infrastructure-automation-through-terraform-by-hashicorp-2gkl)
 
 ## Things Included In This Project Are...
 
