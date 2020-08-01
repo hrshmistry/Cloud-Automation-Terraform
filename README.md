@@ -29,4 +29,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/hrshmistry/Cloud-Automation-Terraform?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/hrshmistry/Cloud-Automation-Terraform?style=social)
 
-[![(https://img.shields.io/github/forks/hrshmistry/Cloud-Automation-Terraform?style=social)]](https://github.com/hrshmistry/Cloud-Automation-Terraform/network/members)
+[![GitHub followers](https://img.shields.io/github/followers/satyajiit?style=social&label=Follow&maxAge=2592000)](https://github.com/satyajiit?tab=followers)
+
+[![GitHub followers](https://img.shields.io/github/forks/hrshmistry/Cloud-Automation-Terraform?style=social)](https://github.com/hrshmistry/Cloud-Automation-Terraform/network/members)
