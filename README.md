@@ -3,8 +3,6 @@
 ![GitHub](https://img.shields.io/github/license/hrshmistry/Cloud-Automation-Terraform)
 ![GitHub top language](https://img.shields.io/github/languages/top/hrshmistry/Cloud-Automation-Terraform)
 
-[❗Detailed Documentation❗](https://dev.to/hrshmistry/end-to-end-aws-cloud-infrastructure-automation-through-terraform-by-hashicorp-2gkl)
-
 ## Things Included In This Project Are...
 
 - Create the key and security group which allow the port 80.
@@ -16,6 +14,8 @@
 - Create **S3 bucket**, and copy/deploy the images from github repo into the s3 bucket and change the permission to public readable.
 - Create a **Cloudfront** using s3 bucket(which contains images) and use the Cloudfront URL to  update in code in /var/www/html
 - create **snapshot of ebs**
+
+For the complete post click [here.](https://dev.to/hrshmistry/end-to-end-aws-cloud-infrastructure-automation-through-terraform-by-hashicorp-2gkl)
 
 > [Way to Dev.to Post](https://dev.to/hrshmistry/end-to-end-aws-cloud-infrastructure-automation-through-terraform-by-hashicorp-2gkl)
 
