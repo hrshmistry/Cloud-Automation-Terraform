@@ -29,4 +29,4 @@
 ![GitHub forks](https://img.shields.io/github/forks/hrshmistry/Cloud-Automation-Terraform?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/hrshmistry/Cloud-Automation-Terraform?style=social)
 
-![GitHub forks](https://img.shields.io/github/forks/hrshmistry/Cloud-Automation-Terraform?style=social)(https://github.com/hrshmistry/Cloud-Automation-Terraform/network/members)
+![(https://img.shields.io/github/forks/hrshmistry/Cloud-Automation-Terraform?style=social)](https://github.com/hrshmistry/Cloud-Automation-Terraform/network/members)
