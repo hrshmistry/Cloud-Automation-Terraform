@@ -15,7 +15,7 @@
 - Create a **Cloudfront** using s3 bucket(which contains images) and use the Cloudfront URL to  update in code in /var/www/html
 - create **snapshot of ebs**
 
-For the complete post click [here.](https://dev.to/hrshmistry/end-to-end-aws-cloud-infrastructure-automation-through-terraform-by-hashicorp-2gkl)
+## For the complete post click [here.](https://dev.to/hrshmistry/end-to-end-aws-cloud-infrastructure-automation-through-terraform-by-hashicorp-2gkl)
 
 > [Way to Dev.to Post](https://dev.to/hrshmistry/end-to-end-aws-cloud-infrastructure-automation-through-terraform-by-hashicorp-2gkl)
 
